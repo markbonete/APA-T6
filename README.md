@@ -1,6 +1,6 @@
 # Expresiones Regulares
 
-## Nom i cognoms
+## Mark Bonete Ventura
 
 ## Tratamiento de ficheros de notas
 
